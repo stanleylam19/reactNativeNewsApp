@@ -1,0 +1,9 @@
+{
+  "name": "newsApp",
+  "displayName": "newsApp",
+    "infoPlist": {
+    "NSAppTransportSecurity": {
+      "NSAllowsArbitraryLoads": true
+    }
+  }
+}
