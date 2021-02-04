@@ -1,7 +1,7 @@
 # This is a demo of News App created by React Native (Android)
 
-![Image text](https://raw.githubusercontent.com/stanleylam19/reactNativeNewsApp/main/ReadmeImg/phone_news.png)
 ![Image text](https://raw.githubusercontent.com/stanleylam19/reactNativeNewsApp/main/ReadmeImg/phone_home.png)
+![Image text](https://raw.githubusercontent.com/stanleylam19/reactNativeNewsApp/main/ReadmeImg/phone_news.png)
 
 The steps to set up the project:
 1. Run commend "npx react-native init <Project Name>" to initialize the project
